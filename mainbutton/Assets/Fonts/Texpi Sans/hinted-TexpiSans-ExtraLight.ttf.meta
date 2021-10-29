@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 525eba19149318a40aca94c9c15966e3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Texpi Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 500f4cfc9a8e517418bc3c6a74da0893, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
